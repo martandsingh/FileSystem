@@ -1,0 +1,9 @@
+/*** Hi Welcome to CodeMaker File System Tutorials. ***/
+This is the test file to show you how Node JS file system works.
+You can like and subcribe us @ Facebook, YouTube.
+Facebook : https://www.facebook.com/CodeMakers
+YouTube : https://www.youtube.com/martand89
+You can download all the source code from our GitHub repository : 
+https://github.com/martandsingh/FileSystem
+** This is appended text by append method **
+** This is appended text by append method **
